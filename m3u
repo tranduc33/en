@@ -5,7 +5,7 @@ https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png", NBC
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 tvg-logo="https://bottega.tech/wp-content/uploads/2019/07/abc-news-logo-resized-bc-4.jpg", ABC
+#EXTINF:-1 tvg-logo="", ABC
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png", 7News Boston - WHDH
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
