@@ -5,10 +5,6 @@ https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 http://203.162.235.41:16918
 #EXTINF:-1  tvg-logo="https://i.imgur.com/2BXCg0x.jpg" ,CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" ,CBS 
-http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png", NBC
-http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png", 7News Boston - WHDH
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
 #EXTINF:-1  tvg-logo="https://www.cabletv.com/app/uploads/wsvn.png" ,FOX 7 Florida (WSVN)
