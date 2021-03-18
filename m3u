@@ -13,3 +13,5 @@ https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c3Z5i2L.png", Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBO.us.png",HBO Malaysia
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
