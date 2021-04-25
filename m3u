@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1fhqoEE.png",CNN (testing)
 http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/2BXCg0x.jpg" ,CNN International (testing)
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2313/files/2020/11/espn.png" group-title="Sport",ESPN (testing)
-https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png", 7News Boston - WHDH
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
 #EXTINF:-1  tvg-logo="https://www.cabletv.com/app/uploads/wsvn.png" ,FOX 7 Florida (WSVN)
@@ -15,5 +11,3 @@ https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c3Z5i2L.png", Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBO.us.png",HBO Malaysia (testing)
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
