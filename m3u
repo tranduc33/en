@@ -5,6 +5,8 @@ http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
 #EXTINF:-1  tvg-logo="https://www.cabletv.com/app/uploads/wsvn.png" ,FOX 7 Florida (WSVN)
 https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AZ8MWRp.jpg" ,KRIV Fox 26 Houston 
+https://lnc-kriv-fox-aws.tubi.video/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News (testing)
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png", The Outdoor Cooking Channel
