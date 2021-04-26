@@ -9,6 +9,8 @@ https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/playlist.m3u8
 https://lnc-kriv-fox-aws.tubi.video/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/18isSVd.png" group-title="News",KTVU Fox 2 San Francisco
 https://lnc-ktvu-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1  tvg-logo="https://livenewsglobe.com/wp-content/uploads/2020/07/Fox_11_Los_Angeles_logo.jpg" ,KTTV Fox 11 Los Angeles 
+https://lnc-kttv-fox-aws.tubi.video/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TCzjchS.jpg" group-title="News",KZAS Fox 10 Phoenix 
 https://lnc-ksaz-fox-aws.tubi.video/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/pRKEMb1.jpg" group-title="Local",KOKI-TV FOX 23 Tulsa OK
