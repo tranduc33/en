@@ -11,6 +11,8 @@ https://lnc-kriv-fox-aws.tubi.video/index.m3u8
 https://lnc-ktvu-fox-aws.tubi.video/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TCzjchS.jpg" group-title="News",KZAS Fox 10 Phoenix 
 https://lnc-ksaz-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/pRKEMb1.jpg" group-title="Local",KOKI-TV FOX 23 Tulsa OK
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News (testing)
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png" group-title="",NewsmaxTV
